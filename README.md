@@ -26,6 +26,3 @@ It targets Arduino-compatible Wi-Fi/BLE boards (ESP32, Arduino Nano 33 IoT, RP20
 
 ## CI (GitHub Actions)
 `ci.yml` (optional) is included to run builds automatically on push/pull requests. Useful to catch compile errors on multiple board targets.
-
-## License
-MIT
